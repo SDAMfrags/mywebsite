@@ -35,3 +35,7 @@ a {
 .section {
   margin-bottom: 10px;
 }
+.containers {
+    width: 700px;
+    margin: auto;
+}
